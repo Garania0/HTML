@@ -9,9 +9,10 @@
     <img src="https://s3-us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2015/10/03030033/0ad8593723.jpg"
     alt="Deadly Grizzley SPOTTED">
     <figure>
-      <figcaption>The Mama Bear is one of the most ruthless of them <em>ALL></em></figcaption>
+      <figcaption>The Mama Bear is one of the most ruthless of them <em>ALL</em></figcaption>
         </figure>
     <b></b>
+     
       //spacing//
     <section>
       <p> What are some key reasons as to why they are dangerous</p>
