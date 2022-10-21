@@ -5,9 +5,6 @@
     </heading>
    <body>
     <h1>Grizzley Bears Dangerous</h1>
-<<<<<<< HEAD
-    //main title for the heading of the page//
-=======
     <!main title for the heading of the page>
 >>>>>>> 5506c8243caae5776c7b6db7cc662c82b721ca24
     <img src="https://s3-us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2015/10/03030033/0ad8593723.jpg"
